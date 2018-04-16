@@ -2,6 +2,8 @@
 
 # JavaScript
 
+The programming part of the language.
+
 ## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
 - Functionality and Readability
@@ -53,9 +55,94 @@
 - Assignment operators
 - Operator precedence
 
+## [Arrays](https://www.digitalocean.com/community/tutorials/understanding-arrays-in-javascript)
 
+- Indexing arrays
+- Accessing items in an array
+- Adding an item to an array
+- Removing an item from an array
+- Modifying items in arrays
+- Looping through an array
+
+## [Array Methods - Mutator](https://www.digitalocean.com/community/tutorials/understanding-arrays-in-javascript)
+
+- `isArray()`
+- `pop()`
+- `shift()`
+- `push()`
+- `unshift()`
+- `splice()`
+- `reverse()`
+- `fill()`
+- `sort()`
+
+## [Array Methods - Accessor](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-accessor-methods)
+
+- `concat()`
+- `join()`
+- `slice()`
+- `indexOf()`
+- `lastIndexOf()`
+
+## [Array Methods - Iteration](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
+
+- `forEach()`
+- `map()`
+- `filter()`
+- `reduce()`
+- `find()`
+- `findIndex()`
+
+## [Objects](https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript)
+
+- Creating an object
+- Properties and methods
+- Accessing object properties
+- Adding and modifying object properties
+- Removing object properties
+- Looping through object properties
+
+## [Date and Time](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+
+- The Date object
+- Retrieving the date
+- Modifying the date
+- Date methods with UTC
+
+## [Conditional Statements](https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript)
+
+- If
+- Else
+- Else if
+- Ternary
+
+## [Switch](https://www.digitalocean.com/community/tutorials/how-to-use-the-switch-statement-in-javascript)
+
+- Switch
+- Switch ranges
+- Multiple cases
+
+## [While and Do While Loops](https://www.digitalocean.com/community/tutorials/using-while-and-do-while-loops-in-javascript)
+
+- While
+- Do While
+- Infinite Loops
+
+## [For Loops](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-javascript)
+
+- For
+- For...In
+- For...Of
+
+## [Prototypes and Inheritance](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+
+- Prototypes
+- Inheritance
+- Constructor functions
 
 # Document Object Model
+
+The browser part of the language.
 
 ## [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 
