@@ -29,7 +29,7 @@
     - `addEventListener()`
 
 
-## How to Access Elements in the DOM
+## [How to Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 
 - [Accessing Elements by ID](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom#accessing-elements-by-id)
     - `getElementById()`
