@@ -232,6 +232,7 @@ The browser part.
 
 - Introduction to JavaScript
 - Working with Object Methods in JavaScript
+- How to Use Promises in JavaScript
 
 ## DOM
 
