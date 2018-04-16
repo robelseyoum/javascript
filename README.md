@@ -1,5 +1,60 @@
 # JavaScript and the DOM
 
+# JavaScript
+
+## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
+
+- Functionality and Readability
+- Whitespace
+- Semicolons
+- Indentation
+- Identifiers
+
+## [Comments](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-javascript)
+
+- Inline
+- Block
+- Commenting out code
+
+## [Strings](https://www.digitalocean.com/community/tutorials/how-to-work-with-strings-in-javascript)
+
+- Creating and viewing the output
+- Storing a string in a variable
+- Concatenation
+- String literals and string values
+- Escaping quotes and apostrophes
+- Long strings and newlines
+
+## [Indexing, Splitting, and Manipulating Strings](https://www.digitalocean.com/community/tutorials/how-to-index-split-and-manipulate-strings-in-javascript)
+
+- How strings are indexed
+- Accessing characters
+- Finding the length of a string
+- Converting to upper or lowercase
+- Splitting strings
+- Trimming whitespace
+- Finding and replacing string values
+
+## [Variables, Scope and Hoisting](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
+
+- Naming variables
+- Difference between `var`, `let`, and `const`
+- Variable scope
+- Hoisting
+- Constants
+
+## [Math](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-javascript-with-operators)
+
+- Arithmetic operators
+- Multiplication and division
+- Modulo
+- Exponentiation
+- Increment and decrement
+- Assignment operators
+- Operator precedence
+
+
+
 # Document Object Model
 
 ## [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
