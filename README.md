@@ -214,3 +214,17 @@
 - [Removing Nodes from the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom#removing-nodes-from-the-dom)
     - `node.removeChild()`
     - `node.remove()`
+
+# To Do
+
+## JavaScript
+
+- Introduction to JavaScript
+- Working with Object Methods in JavaScript
+
+## DOM
+
+- How to Modify Styles, Attributes, and Classes in the DOM 
+- How to Handle Events in the DOM
+- Forms
+- Window
