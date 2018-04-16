@@ -1,11 +1,13 @@
 # JavaScript
 
+The programming part.
+
 ## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
-- [Functionality and Readability](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#functionality-and-readability)
-- [Whitespace](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#whitespace)
-- [Semicolons](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#semicolons)
-- [Indentation](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#whitespace)
+- Functionality and Readability
+- Whitespace
+- Semicolons
+- Indentation
 - Identifiers
 
 ## [Comments](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-javascript)
@@ -145,63 +147,65 @@
 
 # Document Object Model
 
-## [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
+The browser part.
 
-- [What is the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom#what-is-the-dom)
-- [The Document Object](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom#the-document-object)
+## Introduction to the DOM
+
+- What is the DOM
+- The Document Object
     - `document`
-- [The Difference Between the DOM and HTML Source Code](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom#what-is-the-difference-between-the-dom-and-html-source-code)
+- The Difference Between the DOM and HTML Source Code
 
 ## [Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
 
-- [HTML Terminology](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#html-terminology)
+- HTML Terminology
     - tag, 
     - attribute 
     - value 
     - text
-- [The DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#the-dom-tree-and-nodes)
+- The DOM Tree and Nodes
     - parents
     - siblings
     - children
-- [Identifying Node Types](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#identifying-node-type) 
+- Identifying Node Types
     - element
     - text
     - comment
     - document
-- [Modifying the DOM with Events](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#modifying-the-dom-with-events)
+- Modifying the DOM with Events
     - `addEventListener()`
 
 
-## [How to Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
+## [Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 
-- [Accessing Elements by ID](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom#accessing-elements-by-id)
+- [Accessing Elements by ID    
     - `getElementById()`
-- [Accessing Elements by Class](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom#accessing-elements-by-class)
+- [Accessing Elements by Class]   
     - `getElementsByClassName()`
-- [Accessing Elements by Tag](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom#accessing-elements-by-tag)
+- [Accessing Elements by Tag]    
     - `getElementsByTagName()`
-- [Query Selectors](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom#query-selectors)
+- [Query Selectors]    
     - `querySelector()`
     - `querySelectorAll()`
 
-## [How to Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
+## [Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 
-- [Root Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#root-nodes)
+- Root Nodes
     - `document`
     - `document.Element` 
     - `document.head` 
     - `document.body`
-- [Parent Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#parent-nodes)
+- Parent Nodes
     - `parentNode`
     - `parentElement`
-- [Children Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#children-nodes)
+- Children Nodes
     - `childNodes`
     - `firstChild`
     - `lastChild`
     - `children`
     - `firstElementChild`
     - `lastElementChild`
-- [Sibling Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#sibling-nodes)
+- Sibling Nodes
     - `previousSibling`
     - `nextSibling`
     - `previousElementSibling`
@@ -209,16 +213,16 @@
 
 ## [How to Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 
-- [Creating New Nodes](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom#creating-new-nodes)
+- Creating New Nodes
     - `createElement()`
     - `createTextNode()`
     - `node.textContent`
     - `node.innerHTML`
-- [Inserting Nodes into the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom#inserting-nodes-into-the-dom)
+- Inserting Nodes into the DOM
     - `node.appendChild()`
     - `node.insertBefore()`
     - `node.replaceChild()`
-- [Removing Nodes from the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom#removing-nodes-from-the-dom)
+- Removing Nodes from the DOM
     - `node.removeChild()`
     - `node.remove()`
 
