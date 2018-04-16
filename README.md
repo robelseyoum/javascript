@@ -176,7 +176,7 @@ The browser part.
     - `addEventListener()`
 
 
-## [Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
+## [Access the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 
 - [Accessing Elements by ID    
     - `getElementById()`
@@ -211,7 +211,7 @@ The browser part.
     - `previousElementSibling`
     - `nextElementSibling`
 
-## [How to Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
+## [Change the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 
 - Creating New Nodes
     - `createElement()`
