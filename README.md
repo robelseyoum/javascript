@@ -149,7 +149,7 @@ The programming part.
 
 The browser part.
 
-## Introduction to the DOM
+## [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 
 - What is the DOM
 - The Document Object
