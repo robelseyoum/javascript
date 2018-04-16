@@ -2,10 +2,10 @@
 
 ## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
-- Functionality and Readability
-- Whitespace
-- Semicolons
-- Indentation
+- [Functionality and Readability](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#functionality-and-readability)
+- [Whitespace](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#whitespace)
+- [Semicolons](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#semicolons)
+- [Indentation](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript#whitespace)
 - Identifiers
 
 ## [Comments](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-javascript)
@@ -129,6 +129,13 @@
 - For
 - For...In
 - For...Of
+
+## [Functions](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-javascript)
+
+- Defining a function
+- Function parameters
+- Function expressions
+- Arrow functions
 
 ## [Prototypes and Inheritance](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
 
