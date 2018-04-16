@@ -25,7 +25,7 @@
     - text
     - comment
     - document
-- [Modifying the DOM with Event](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#modifying-the-dom-with-events)
+- [Modifying the DOM with Events](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes#modifying-the-dom-with-events)
     - `addEventListener()`
 
 
