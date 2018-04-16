@@ -1,8 +1,4 @@
-# JavaScript and the DOM
-
 # JavaScript
-
-The programming part of the language.
 
 ## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
@@ -142,8 +138,6 @@ The programming part of the language.
 
 # Document Object Model
 
-The browser part of the language.
-
 ## [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 
 - [What is the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom#what-is-the-dom)
@@ -191,11 +185,20 @@ The browser part of the language.
     - `document.head` 
     - `document.body`
 - [Parent Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#parent-nodes)
-    - `parentNode`, `parentElement`
+    - `parentNode`
+    - `parentElement`
 - [Children Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#children-nodes)
-    - `childNodes`, `firstChild`, `lastChild`, `children`, `firstElementChild`, `lastElementChild`
+    - `childNodes`
+    - `firstChild`
+    - `lastChild`
+    - `children`
+    - `firstElementChild`
+    - `lastElementChild`
 - [Sibling Nodes](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom#sibling-nodes)
-    - `previousSibling`, `nextSibling`, `previousElementSibling`, `nextElementSibling`
+    - `previousSibling`
+    - `nextSibling`
+    - `previousElementSibling`
+    - `nextElementSibling`
 
 ## [How to Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 
@@ -211,4 +214,3 @@ The browser part of the language.
 - [Removing Nodes from the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom#removing-nodes-from-the-dom)
     - `node.removeChild()`
     - `node.remove()`
-    
