@@ -2,6 +2,8 @@
 
 The programming part.
 
+## Introduction
+
 ## [Syntax and Code Structure](https://www.digitalocean.com/community/tutorials/understanding-syntax-and-code-structure-in-javascript)
 
 - Functionality and Readability
@@ -99,6 +101,8 @@ The programming part.
 - Adding and modifying object properties
 - Removing object properties
 - Looping through object properties
+
+## Object Methods
 
 ## [Date and Time](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
@@ -226,17 +230,6 @@ The browser part.
     - `node.removeChild()`
     - `node.remove()`
 
-# To Do
-
-## JavaScript
-
-- Introduction to JavaScript
-- Working with Object Methods in JavaScript
-- How to Use Promises in JavaScript
-
-## DOM
-
-- How to Modify Styles, Attributes, and Classes in the DOM 
-- How to Handle Events in the DOM
-- Forms
-- Window
+## Modify Styles, Attributes, and Classes
+## Hangling Events
+## Window and Scroll
