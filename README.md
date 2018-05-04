@@ -149,6 +149,13 @@ The programming part.
 - Inheritance
 - Constructor functions
 
+## [Classes](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+
+- Classes are functions
+- Defining a class
+- Defining methods
+- Extending a class
+
 # Document Object Model
 
 The browser part.
