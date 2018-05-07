@@ -2,13 +2,18 @@
 
 ## Attributes
 
+```js
 element.setAttribute()
 element.getAttribute()
 element.hasAttribute() // bool
 element.removeAttribute()
 
+element.attr = 'newval';
+```
+
 ## Classes
 
+```js
 // get class
 element.className;
 element.getAttribute('class');
@@ -21,17 +26,21 @@ element.classList.add('open');
 element.classList.add('open', 'blue');
 element.classList.remove('open');
 element.classList.toggle('open');
+```
 
 ## Styles
 
+```js
 element.setAttribute('style', 'padding: 10px 0;')
 element.style.color = 'red';
-element.styke.background-color = 'blue';
+element.style.background-color = 'blue';
+```
 
 # Understanding Events in JavaScript
 
+```
 onclick
 onmouseover
 onmouseout
 hover
-
+```
