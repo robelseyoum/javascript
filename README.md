@@ -238,5 +238,5 @@ The browser part.
     - `node.remove()`
 
 ## Modify Styles, Attributes, and Classes
-## Hangling Events
+## Handling Events
 ## Window and Scroll
