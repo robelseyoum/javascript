@@ -237,6 +237,22 @@ The browser part.
     - `node.removeChild()`
     - `node.remove()`
 
-## Modify Styles, Attributes, and Classes
+## [Modify Styles, Attributes, and Classes](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom)
+
+- Attributes
+    - `hasAttribute()`
+    - `getAttribute()`
+    - `setAttribute()`
+    - `removeAttribute()`
+- Classes
+    - `className`
+    - `classList.add()`
+    - `classList.toggle()`
+    - `classList.remove()`
+    - `classList.contains()`
+    - `classSList.replace()`
+- Styles
+    - `style.property`
+
 ## Handling Events
 ## Window and Scroll
