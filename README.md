@@ -111,6 +111,8 @@ The programming part.
 - Modifying the date
 - Date methods with UTC
 
+## Logic
+
 ## [Conditional Statements](https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript)
 
 - If
@@ -136,6 +138,8 @@ The programming part.
 - For...In
 - For...Of
 
+## Map and Set
+
 ## [Functions](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-javascript)
 
 - Defining a function
@@ -155,6 +159,10 @@ The programming part.
 - Defining a class
 - Defining methods
 - Extending a class
+
+## Recursion
+
+## Error Handling
 
 # Document Object Model
 
@@ -254,5 +262,11 @@ The browser part.
 - Styles
     - `style.property`
 
-## Handling Events
+## [Understanding Events](https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript)
+
+- Event Handlers
+- Event Listeners
+- Common Events
+- Event Object
+
 ## Window and Scroll
